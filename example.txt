@@ -1,0 +1,24 @@
+{
+  hash: '303070dae341d71c167917bfd88a9c07d5820359959cfd45c37391befae06f9ef2d9e04a43ce01f550e24b0
+1a88a8c59464876fa0a901503d5e379c02b534b9c',
+  salt: 'b032e8c7e7c73c07f4001f36f47ea1cf'
+}
+
+
+
+
+
+ /**
+ * @typeof {Object} HashAndSalt
+ * @property {string} hash - The hash we got
+ * @property {string} salt - The salt used for hashing
+ */
+
+
+/**
+ * Given a password, hash it with a solt , then return the hash and the salt
+ * @param {string} password
+ * @returns {HaskedSalt} object containing the hash ant the salt
+ */
+
+
